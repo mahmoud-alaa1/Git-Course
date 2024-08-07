@@ -38,5 +38,6 @@
 `git config --global core.editor "code --wait`
 ### for starting to edit
 `git config --global -e`
+![image](https://github.com/user-attachments/assets/e6dfa7a3-8e47-48ba-bce7-735e49462547)
 
 
