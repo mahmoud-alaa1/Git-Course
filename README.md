@@ -27,9 +27,12 @@
 4. git push `Remote name` `Local Branch`
    - To get local branch excute: git branch
    - To get remote branch excute: git remote -v
+   - **Please note: You can't push unless you have the latest changes from the remote**.
+   - to push and pull at the same time use `git push "Remote name" "Local Name"`
+
 5. to unstage from **staging area** to **workspace**: git restore --`File name`
+   
 6. git pull `Remote name`  "updates your local files to the remote files"
-      - **Please note: Youe can pull unless you have the latest changes from the remote**
 
 ## Git Configuration
 **Any configuration command starts with git config**
