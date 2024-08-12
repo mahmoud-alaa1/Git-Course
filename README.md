@@ -44,11 +44,11 @@
 ![image](https://github.com/user-attachments/assets/e6dfa7a3-8e47-48ba-bce7-735e49462547)
 
 #Add project to existing repo
-git init
-git add .
-git commit -m "my commit"
-git remote set-url origin git@github.com:username/repo.git
-git push origin master
+- git init
+- git add .
+- git commit -m "my commit"
+- git remote set-url origin git@github.com:username/repo.git
+- git push origin master
 
 
 
